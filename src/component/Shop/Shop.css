@@ -8,3 +8,10 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
 }
+.checkout {
+    background-color: coral;
+    color: white;
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 90%;
+}

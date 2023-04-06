@@ -4,3 +4,14 @@
     position: sticky;
     top: 0;
 }
+.cart-btn{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    background-color: rgba(255, 48, 48, 1);
+    border-radius: 4px;
+    color: white;
+    font-size: 20px;
+    height: 55px;
+    align-items: center;
+}

@@ -1,4 +1,11 @@
 .review-container {
     margin: 50px auto;
-    
+
+}
+.review-order{
+    background-color: chocolate;
+    margin-top: 10px;
+    width: 90%;
+    border-radius: 10px;
+    height: 55px;
 }
